@@ -1,4 +1,4 @@
-public class CountNum{
+public class CountNum9{
 
 public static void main (String[] args){
 
